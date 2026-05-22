@@ -3,7 +3,7 @@
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
-      <img width="75px" margin="0px" src="blob:https://gemini.google.com/bdc23eb9-2eaf-4ce4-9ee8-815d5f7ace42"> 
+      <img width="75px" margin="0px" src="https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif"> 
     </summary>
     <summary>
       <h1>
