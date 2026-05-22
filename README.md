@@ -3,7 +3,7 @@
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
-      <img width="75px" margin="0px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh1d2UzYTV1aTRiajN1bHN2bG5vbmc1c3FuN2d0aGUwNWdndnZsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FdblYGAIakSTaOLhNq/giphy.gif"> 
+      <img width="75px" margin="0px" src="(http://codepen.io/aecend/pen/WbONyK)"> 
     </summary>
     <summary>
       <h1>
