@@ -3,10 +3,6 @@
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
-      <img width="420" height="375" alt="image" src="" />
-
-    </summary>
-    <summary>
       <h1>
         Hello, I'm Nitish
       </h1>
@@ -14,7 +10,7 @@
   </ul>
 </div>
 
-**Front-End Developer** · HTML · CSS · JavaScript
+**Front-End Developer** · HTML · CSS · JavaScript . React
 
 Hi, I'm Nitish Kumar — a student from India who started with the basics and isn't planning to stop anytime soon. Currently learning web development one language at a time, with a lot more still on the list.
 
