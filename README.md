@@ -3,7 +3,8 @@
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
-      <img width="75px" margin="0px" src="https://assets-v2.lottiefiles.com/a/35735896-1176-11ee-8649-af549fb59863/lsQS6q92QV.gif"> 
+      <img width="420" height="375" alt="image" src="" />
+
     </summary>
     <summary>
       <h1>
