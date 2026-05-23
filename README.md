@@ -21,9 +21,11 @@ Hi, I'm Nitish Kumar — a student from India who started with the basics and is
 
 **<h3 align="left">Tools & Tech</h3>**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> -->
 <!-- <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code> -->
 <!-- <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code> -->
