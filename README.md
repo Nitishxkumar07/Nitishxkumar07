@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-**Front-End Developer** · HTML · CSS · JavaScript . React
+**Front-End Developer** • HTML • CSS • JavaScript • React
 
 Hi, I'm Nitish Kumar — a student from India who started with the basics and isn't planning to stop anytime soon. Currently learning web development one language at a time, with a lot more still on the list.
 
