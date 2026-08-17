@@ -47,9 +47,13 @@ Hi, I'm Nitish Kumar — a student from India who started with the basics and is
 
 **<h3 align="left">GitHub Stats</h3>**
 
-![](https://github-readme-stats.vercel.app/api?username=dhirajkushwaha01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhirajkushwaha01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkushwaha01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="left">
+  <img width="48%" src="https://streak-stats.vercel.app?user=Nitishxkumar07&theme=react" alt="GitHub Stats" />
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=Nitishxkumar07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nitishxkumar07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishxkumar07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 <!--![Profile views](https://komarev.com/ghpvc/?username=harshwardhanfromIndia&label=Profile%20views&color=61DAFB&style=flat)-->
